@@ -1,0 +1,5 @@
+pyttsx3
+PyPDF2
+pypiwin32; platform_system == "Windows"
+pyobjc; platform_system == "Darwin"
+
